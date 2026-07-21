@@ -22,13 +22,13 @@ If you use this dataset or the benchmark models in your research, please cite ou
 **BibTeX:**
 ```bibtex
 @misc{islam2026banclickthumb,
-      title={BanClickThumb: A Multimodal Dataset and Benchmarks for Clickbait Detection in Bengali YouTube Videos}, 
-      author={Md. Ariful Islam},
+      title={BanClickThumb: A Multimodal Dataset and Transformer Fusion Benchmarks for Clickbait Detection in Bengali YouTube Videos}, 
+      author={Md. Ariful Islam and Md Tanvirul Islam and Md. Maruf Hossain Miru and Md Khalid Syfullah},
       year={2026},
       eprint={2607.17182},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={[https://doi.org/10.48550/arXiv.2607.17182](https://doi.org/10.48550/arXiv.2607.17182)}
+      url={https://doi.org/10.48550/arXiv.2607.17182}
 }
 ```
 
