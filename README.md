@@ -3,11 +3,34 @@
 
 ## 📊 Dataset
 
-To run the code in this repository, you will need to use our custom dataset. You can easily find and download it from Kaggle using the link below:
+To run the code in this repository, you will need to use our custom dataset. You can easily find and download it from Kaggle using the links below:
 
-* **Download Dataset:** [BanClickThumb: Bangla Clickbait Dataset](https://www.kaggle.com/datasets/5345efaf68005de56157e10096c251f1714d5acc19bd85857275ef11be2d5fab)
+- **Download Dataset:** [BanClickThumb: Bangla Clickbait Dataset](https://www.kaggle.com/datasets/ariful234/banclickthumb-bangla-clickbait-dataset) 
+- **Dataset DOI:** [![DOI](https://img.shields.io/badge/DOI-10.34740%2Fkaggle%2Fdsv%2F15501168-blue)](https://doi.org/10.34740/kaggle/dsv/15501168)
 
 *Note: Please download the dataset and extract the files to your local machine before running the code.*
+
+
+
+## 📝 Citation
+
+If you use this dataset or the benchmark models in your research, please cite our paper:
+
+**Paper DOI:** [![DOI](https://img.shields.io/badge/DOI-10.48550%2FarXiv.2607.17182-green)](https://doi.org/10.48550/arXiv.2607.17182)  
+**arXiv:** [arXiv:2607.17182 [cs.CV]](https://arxiv.org/abs/2607.17182)
+
+**BibTeX:**
+```bibtex
+@misc{islam2026banclickthumb,
+      title={BanClickThumb: A Multimodal Dataset and Benchmarks for Clickbait Detection in Bengali YouTube Videos}, 
+      author={Md. Ariful Islam},
+      year={2026},
+      eprint={2607.17182},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={[https://doi.org/10.48550/arXiv.2607.17182](https://doi.org/10.48550/arXiv.2607.17182)}
+}
+```
 
 ## 📂 Project Structure
 
